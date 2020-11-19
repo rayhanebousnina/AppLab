@@ -1,0 +1,80 @@
+/* Importation du font family */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+
+/* Style du Logo */
+.app {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(252, 174, 97);
+    font-weight: bold;
+    line-height: 2.75;
+}
+.lab {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color:  rgb(36, 47, 81);
+    font-weight: bold;
+    line-height: 2.75;
+}
+
+/* Style des liens navbar */
+li {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(36, 47, 81);
+    line-height: 2.75;
+}
+
+#tryforfreebtn {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: rgb(37, 0, 249);
+    text-decoration: none;
+    border-radius: 2.5rem;
+    width: 170px;
+    height: 57px;
+    font-weight: bold;
+    line-height: 2.75;
+}
+.cercle {
+    background-color: rgb(254, 170, 37);
+    border-radius: 50%;
+    left: 285px;
+    top: 396px;
+    width: 39px;
+    height: 35px;
+}
+.ovale {
+    background-color: rgb(226, 234, 237);
+    border-radius: 30%;
+    left: 285px;
+    top: 396px;
+    width: 362px;
+    height: 35px;
+}
+.bigparag {
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(36, 47, 81);
+    font-weight: bold;
+    line-height: 1.25;
+}
+.smallparag {
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(97, 99, 104);
+    line-height: 1.556;
+}
+.Watch_demo_video {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(37, 0, 249);
+    line-height: 2.75;   
+    
+  }
+  
+  
+  
+  
+  

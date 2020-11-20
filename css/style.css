@@ -72,7 +72,50 @@ li {
     color: rgb(37, 0, 249);
     line-height: 2.75;   
     
-  }
+}
+#sizecomp {
+    height: 3rem;
+    width: auto;
+}
+.Trusted_by_companies_like {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(36, 47, 81);
+    line-height: 1.75;   
+}
+.Awesome_apps_features {
+    font-size: 36px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(36, 47, 81);
+    font-weight: bold;
+    line-height: 1.278;    
+}    
+#Fast_Performance {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(245, 87, 103);
+    font-weight: bold;
+    line-height: 2.9;
+    
+}
+#Prototyping {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(37, 99, 255);
+    font-weight: bold;
+    line-height: 2.9;
+}
+#Vector_Editing {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(64, 151, 95);
+    font-weight: bold;
+    line-height: 2.9;
+}
+#header1 {
+     background-image: url(C:\Users\Chila\Desktop\AppLab\images\layer5.png);
+} 
+  
   
   
   

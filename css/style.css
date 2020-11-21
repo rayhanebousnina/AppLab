@@ -1,123 +1,132 @@
 /* Importation du font family */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
 
 /* Style du Logo */
 .app {
-    font-size: 30px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(252, 174, 97);
-    font-weight: bold;
-    line-height: 2.75;
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(252, 174, 97);
+  font-weight: bold;
+  line-height: 2.75;
 }
 .lab {
-    font-size: 30px;
-    font-family: 'Poppins', sans-serif;
-    color:  rgb(36, 47, 81);
-    font-weight: bold;
-    line-height: 2.75;
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(36, 47, 81);
+  font-weight: bold;
+  line-height: 2.75;
 }
 
 /* Style des liens navbar */
 li {
-    font-size: 16px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(36, 47, 81);
-    line-height: 2.75;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(36, 47, 81);
+  line-height: 2.75;
 }
 
 #tryforfreebtn {
-    font-size: 16px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(255, 255, 255);
-    background-color: rgb(37, 0, 249);
-    text-decoration: none;
-    border-radius: 2.5rem;
-    width: 170px;
-    height: 57px;
-    font-weight: bold;
-    line-height: 2.75;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(255, 255, 255);
+  background-color: rgb(37, 0, 249);
+  text-decoration: none;
+  border-radius: 2.5rem;
+  width: 170px;
+  height: 57px;
+  font-weight: bold;
+  line-height: 2.75;
 }
 .cercle {
-    background-color: rgb(254, 170, 37);
-    border-radius: 50%;
-    left: 285px;
-    top: 396px;
-    width: 39px;
-    height: 35px;
+  background-color: rgb(254, 170, 37);
+  border-radius: 50%;
+  left: 285px;
+  top: 396px;
+  width: 39px;
+  height: 35px;
 }
 .ovale {
-    background-color: rgb(226, 234, 237);
-    border-radius: 30%;
-    left: 285px;
-    top: 396px;
-    width: 362px;
-    height: 35px;
+  background-color: rgb(226, 234, 237);
+  border-radius: 30%;
+  left: 285px;
+  top: 396px;
+  width: 362px;
+  height: 35px;
 }
 .bigparag {
-    font-size: 60px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(36, 47, 81);
-    font-weight: bold;
-    line-height: 1.25;
+  font-size: 60px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(36, 47, 81);
+  font-weight: bold;
+  line-height: 1.25;
 }
 .smallparag {
-    font-size: 18px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(97, 99, 104);
-    line-height: 1.556;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(97, 99, 104);
+  line-height: 1.556;
 }
 .Watch_demo_video {
-    font-size: 16px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(37, 0, 249);
-    line-height: 2.75;   
-    
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(37, 0, 249);
+  line-height: 2.75;
 }
 #sizecomp {
-    height: 3rem;
-    width: auto;
+  height: 3rem;
+  width: auto;
 }
 .Trusted_by_companies_like {
-    font-size: 16px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(36, 47, 81);
-    line-height: 1.75;   
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(36, 47, 81);
+  line-height: 1.75;
 }
 .Awesome_apps_features {
-    font-size: 36px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(36, 47, 81);
-    font-weight: bold;
-    line-height: 1.278;    
-}    
+  font-size: 36px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(36, 47, 81);
+  font-weight: bold;
+  line-height: 1.278;
+}
 #Fast_Performance {
-    font-size: 20px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(245, 87, 103);
-    font-weight: bold;
-    line-height: 2.9;
-    
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(245, 87, 103);
+  font-weight: bold;
+  line-height: 2.9;
 }
 #Prototyping {
-    font-size: 20px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(37, 99, 255);
-    font-weight: bold;
-    line-height: 2.9;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(37, 99, 255);
+  font-weight: bold;
+  line-height: 2.9;
 }
 #Vector_Editing {
-    font-size: 20px;
-    font-family: 'Poppins', sans-serif;
-    color: rgb(64, 151, 95);
-    font-weight: bold;
-    line-height: 2.9;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(64, 151, 95);
+  font-weight: bold;
+  line-height: 2.9;
 }
 #header1 {
-     background-image: url(C:\Users\Chila\Desktop\AppLab\images\layer5.png);
-} 
-  
-  
-  
-  
-  
-  
+  background-image: url(C:\Users\Chila\Desktop\AppLab\images\layer5.png);
+}
+.Smart_jackpots_that_you_may_love_this_anytime__ {
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(36, 47, 81);
+  font-weight: bold;
+  line-height: 1.25;
+}
+.The_rise_of_mobile_devices_transforms_the_way_w {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(97, 99, 104);
+  line-height: 1.625;
+}
+.Vertical-line {
+  border-left: 1px solid rgb(75, 74, 72);
+  height: 147px;
+}

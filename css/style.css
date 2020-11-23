@@ -110,9 +110,6 @@ li {
   font-weight: bold;
   line-height: 2.9;
 }
-#header1 {
-  background-image: url(C:\Users\Chila\Desktop\AppLab\images\layer5.png);
-}
 .Smart_jackpots_that_you_may_love_this_anytime__ {
   font-size: 40px;
   font-family: "Poppins", sans-serif;
@@ -129,4 +126,12 @@ li {
 .Vertical-line {
   border-left: 1px solid rgb(75, 74, 72);
   height: 147px;
+}
+.App_Development {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(36, 47, 81);
+  font-weight: bold;
+  line-height: 2.9;
+  text-align: center;
 }

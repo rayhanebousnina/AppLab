@@ -49,11 +49,10 @@ li {
   font-family: "Poppins", sans-serif;
   color: gray;
   background-color: transparent;
-  text-decoration: none;
   border-radius: 2.5rem;
   border: solid 2px gray;
-  width: 170px;
-  height: 67px;
+  width: 300px;
+  height: 75px;
   font-weight: bold;
   line-height: 2.75;
 }
@@ -180,7 +179,8 @@ li {
   height: 567px;
 }
 .lien {
-  font-size: 20px;
+  font-size: 15px;
+  color: gray;
   font-family: "Poppins", sans-serif;
 }
 .lien:hover {
@@ -199,6 +199,35 @@ li {
   font-weight: 400;
   font-family: "Poppins", sans-serif;
 }
-
-
-
+.dollar {
+  font-size: 60px;
+  line-height: 58px;
+  color: #242f51;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+.month {
+  font-size: 18px;
+  line-height: 28px;
+  color: #999ca5;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+.pm-bc {
+  font-size: 20px;
+  line-height: 28px;
+  color: #242f51;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+.for {
+  font-size: 16px;
+  line-height: 28px;
+  color: #999ca5;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}

@@ -16,7 +16,13 @@
   font-weight: bold;
   line-height: 2.75;
 }
-
+.lab-footer {
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 2.75;
+}
 /* Style des liens navbar */
 li {
   font-size: 16px;
@@ -34,6 +40,20 @@ li {
   border-radius: 2.5rem;
   width: 170px;
   height: 57px;
+  font-weight: bold;
+  line-height: 2.75;
+}
+
+#annually {
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+  border-radius: 2.5rem;
+  border: solid 2px gray;
+  width: 170px;
+  height: 67px;
   font-weight: bold;
   line-height: 2.75;
 }
@@ -149,5 +169,36 @@ li {
   font-weight: bold;
   line-height: 3.222;
 }
+.Collapse{
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  color: rgb(36, 47, 81);
+  font-weight: bold;
+}
+.Footer {
+  background-color: rgb(9, 20, 46);  
+  height: 567px;
+}
+.lien {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+.lien:hover {
+  color: white;
+}
+#grey {
+  color: gray;
+}
+#grey:hover {
+  color: white;
+}
+.copyright {
+  font-size: 14px;
+  line-height: 44px;
+  color: grey;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+
 
 

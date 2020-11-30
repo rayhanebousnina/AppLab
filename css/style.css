@@ -168,14 +168,14 @@ li {
   font-weight: bold;
   line-height: 3.222;
 }
-.Collapse{
+.Collapse {
   font-size: 20px;
   font-family: "Poppins", sans-serif;
   color: rgb(36, 47, 81);
   font-weight: bold;
 }
 .Footer {
-  background-color: rgb(9, 20, 46);  
+  background-color: rgb(9, 20, 46);
   height: 567px;
 }
 .lien {
@@ -232,8 +232,17 @@ li {
   text-align: center;
 }
 .bg-card {
-  background-color: #FFFFFF;
-  background-image: linear-gradient(180deg, #FFFFFF 0%, #f4f4f7 50%, #e9e9e9 100%);
-
+  background-color: #ffffff;
+  background-image: linear-gradient(
+    180deg,
+    #ffffff 0%,
+    #f4f4f7 50%,
+    #e9e9e9 100%
+  );
 }
-
+.round-rectangle {
+  border-radius: 2.5rem;
+  border: solid 2px gray;
+  height: 75px;
+  width: 15rem;
+}
